@@ -1,0 +1,34 @@
+{
+    "beam_diameter": "1.25",
+    "cleanup_duration": 30.0,
+    "commit": "5c0f70e428deaa933cae1b3e8032c119015230d8",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 2.25,
+    "grain_polygon_blob": [
+        "b'/5G1TppZBUInACIAJgAjACUAIwAkACQAIwAlACIAJQAiACYAIQAnACEAKAAhACkAIQAqACAAKwAgACwAIAAtACEALgAhAC8AIQAwACIAMQAiADIAIwAzACQAMwAlADQAJgA1ACcANgAoADYAKQA2ACoANgArADYALAA2AC0ANgAuADYALwA1ADAANQAxADUAMQA0ADIAMwAzADIANAAxADQAMAA1AC8ANQAuADUALQA1ACwANQArADUAKgA1ACkANQAoADQAJwAzACYAMgAlADEAJQAwACQALwAjAC4AIgAtACIALAAiACsAIgAqACIAKQAiACgAIgA='",
+        "b'/5G1TppZBUIsACIAKwAjACoAIwApACMAKAAjACcAIwAmACMAJQAkACQAJAAjACUAIwAmACIAJwAiACgAIQApACEAKgAhACsAIQAsACEALQAhAC4AIgAvACIAMAAiADEAIwAxACQAMgAkADMAJQA0ACYANAAnADUAKAA1ACkANQAqADYAKwA2ACwANQAtADUALgA1AC8ANAAwADQAMQAzADIAMgAzADEANAAwADQALwA0AC4ANAAtADQALAA0ACsANAAqADQAKQAzACgAMwAnADIAJgAxACUAMAAkAC8AJAAuACMALQAiAA=='",
+        "b'/5G1TppZBUIoACMAJwAkACYAJAAlACQAJAAlACMAJgAjACcAIgAoACIAKQAiACoAIgArACMALAAjAC0AIwAuACMALwAjADAAIwAxACQAMgAlADMAJgAzACcANAAoADQAKQA0ACoANAArADQALAA0AC0ANAAuADQALwAzADAAMgAxADEAMgAxADMAMAA0AC8ANAAuADQALQA0ACwANAArADMAKgAzACkAMgAoADIAJwAxACYAMQAlADAAJQAvACQALgAkAC0AJAAsACMAKwAjACoAIwApACMA'",
+        "b'/5G1TppZBUInACUAJgAmACYAJwAlACgAJQApACQAKgAkACsAJAAsACUALQAlAC4AJQAvACUAMAAmADEAJwAxACgAMgApADMAKgAzACsAMwAsADMALQAzAC4AMgAvADEAMAAwADEAMAAxAC8AMgAuADIALQAzACwAMwArADMAKgAyACkAMQAoADAAJwAvACYALgAlAC0AJQAsACUAKwAlACoAJQApACUAKAAlAA=='"
+    ],
+    "measured_response": "Tm8gUmVzcG9uc2U=",
+    "pattern": "dragonflypeakpattern_br1-221-hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "194",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Tm8gUmVzcG9uc2U=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
