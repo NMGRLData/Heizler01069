@@ -1,0 +1,207 @@
+{
+    "acquisition_software": "Pychron17.7(Exp0.2,DVC0.1)", 
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "analyst_name": "", 
+    "comment": "D:23 Biotite, 1.23 mg", 
+    "commit": "387baadd67f70de4ee23d93a760971581aaab5e2", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -2703394652772138636, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron17.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Hum.", 
+                "pub_date": "2018-05-07T10:05:11", 
+                "title": "iServer Hum.", 
+                "value": 19.2
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Hum. 2", 
+                "pub_date": "2018-05-07T10:47:21", 
+                "title": "Base Station Hum.", 
+                "value": 19.7520427703857
+            }
+        ], 
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure", 
+                "name": "Pressure", 
+                "pub_date": "2018-05-07T10:47:11", 
+                "title": "Building", 
+                "value": 94.5
+            }, 
+            {
+                "device": "AirPressure2", 
+                "name": "Pressure2", 
+                "pub_date": "2018-05-07T10:37:11", 
+                "title": "Lab", 
+                "value": 88.2
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Pressure", 
+                "pub_date": "2018-05-07T10:47:14", 
+                "title": null, 
+                "value": 868.1923828125
+            }, 
+            {
+                "device": "MicroBoneGaugeController", 
+                "name": "JanDecabinPressure", 
+                "pub_date": "2018-05-07T10:35:02", 
+                "title": "Jan Decabin", 
+                "value": 2.3
+            }
+        ], 
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger", 
+                "name": "ColdFinger Temp.", 
+                "pub_date": "2018-05-07T10:17:17", 
+                "title": "Cold Finger", 
+                "value": -20.0
+            }, 
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Temp.", 
+                "pub_date": "2018-05-07T10:26:22", 
+                "title": "iServer Temp.", 
+                "value": 72.6
+            }, 
+            {
+                "device": "Chiller", 
+                "name": "Coolant Temp.", 
+                "pub_date": "2018-05-07T10:17:36", 
+                "title": "Coolant", 
+                "value": 18.0
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 2", 
+                "pub_date": "2018-05-07T10:47:21", 
+                "title": "Base Station Temp.", 
+                "value": 82.0645324707031
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 3", 
+                "pub_date": "2018-05-07T10:27:12", 
+                "title": "EastDiffuser01", 
+                "value": 59.0
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 4", 
+                "pub_date": "2018-05-07T10:46:29", 
+                "title": "EastReturn02", 
+                "value": 70.925
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 5", 
+                "pub_date": "2018-05-07T10:20:25", 
+                "title": "iServerCalibration03", 
+                "value": 72.1616
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 6", 
+                "pub_date": "2018-05-07T10:36:51", 
+                "title": "SouthWall04", 
+                "value": 70.1366
+            }, 
+            {
+                "device": "RPiWeather", 
+                "name": "Lab Temp. 7", 
+                "pub_date": "2018-05-07T10:44:30", 
+                "title": "SouthWindow05", 
+                "value": 72.1616
+            }
+        ]
+    }, 
+    "experiment_queue_name": "CurrentExperiment", 
+    "extraction": "felix_diode.py", 
+    "identifier": "66197", 
+    "increment": 6, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-294", 
+    "irradiation_level": "D", 
+    "irradiation_position": 23, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)", 
+            "name": "Ar36"
+        }, 
+        "Ar37": {
+            "detector": "L1", 
+            "name": "Ar37"
+        }, 
+        "Ar38": {
+            "detector": "AX", 
+            "name": "Ar38"
+        }, 
+        "Ar39": {
+            "detector": "H1", 
+            "name": "Ar39"
+        }, 
+        "Ar40": {
+            "detector": "H2", 
+            "name": "Ar40"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "Biotite", 
+    "measurement": "felix_analysis340_60_no_center.py", 
+    "post_equilibration": "felix_pump_extraction_line.py", 
+    "post_measurement": "felix_pump_ms.py", 
+    "project": "Heizler01069", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Heizler01069", 
+    "sample": "K10 Hual", 
+    "source": {
+        "emission": 853.621, 
+        "trap": 248.607
+    }, 
+    "spec_sha": "fad234d16fee6c00a96e96e15edccd97faba9521", 
+    "timestamp": "2018-05-07T10:47:49.280787", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "3d2b1468-869e-4963-beb7-d87233d9d1df", 
+    "whiff_result": null
+}
