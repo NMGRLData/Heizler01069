@@ -1,7 +1,7 @@
 {
     "AX": {
-        "error": 0.00023758203952790977,
-        "fit": "Bracketing Interpolate",
+        "error": 0.00023839812666574762,
+        "fit": "Weighted Mean",
         "references": [
             {
                 "exclude": "ok",
@@ -19,7 +19,7 @@
                 "uuid": "a4add103-49f8-4a38-bac5-ed06bd0a4c23"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "c-02-J-3411",
                 "uuid": "a53555a3-7e70-4e87-b370-185e82075469"
             },
@@ -115,7 +115,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0014453829182948
+        "value": 1.0018012807804628
     },
     "CDD": {
         "error": 0.002300588462375166,
