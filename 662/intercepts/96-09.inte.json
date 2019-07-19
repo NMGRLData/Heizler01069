@@ -5,13 +5,30 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
         "fn": 388,
         "include_baseline_error": false,
         "n": 400,
+        "outlier_excluded": [
+            0,
+            1,
+            355,
+            328,
+            41,
+            203,
+            177,
+            181,
+            278,
+            88,
+            344,
+            282
+        ],
         "reviewed": true,
+        "user_excluded": [],
         "value": 0.00893688951206786
     },
     "Ar37": {
@@ -20,13 +37,34 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
         "fn": 384,
         "include_baseline_error": false,
         "n": 400,
+        "outlier_excluded": [
+            260,
+            165,
+            6,
+            294,
+            326,
+            201,
+            76,
+            77,
+            14,
+            47,
+            308,
+            150,
+            55,
+            247,
+            90,
+            350
+        ],
         "reviewed": true,
+        "user_excluded": [],
         "value": 0.07752361165792485
     },
     "Ar38": {
@@ -35,13 +73,38 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
         "fn": 380,
         "include_baseline_error": false,
         "n": 400,
+        "outlier_excluded": [
+            0,
+            1,
+            2,
+            64,
+            65,
+            128,
+            258,
+            232,
+            137,
+            177,
+            210,
+            338,
+            381,
+            56,
+            89,
+            90,
+            380,
+            317,
+            30,
+            349
+        ],
         "reviewed": true,
+        "user_excluded": [],
         "value": 0.09753867050332507
     },
     "Ar39": {
@@ -50,13 +113,30 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
         "fn": 388,
         "include_baseline_error": false,
         "n": 400,
+        "outlier_excluded": [
+            0,
+            1,
+            39,
+            137,
+            43,
+            173,
+            208,
+            336,
+            115,
+            343,
+            344,
+            317
+        ],
         "reviewed": true,
+        "user_excluded": [],
         "value": 10.963145543263696
     },
     "Ar40": {
@@ -65,13 +145,34 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
         "fn": 384,
         "include_baseline_error": false,
         "n": 400,
+        "outlier_excluded": [
+            319,
+            1,
+            36,
+            100,
+            101,
+            108,
+            13,
+            109,
+            173,
+            16,
+            396,
+            247,
+            279,
+            311,
+            126,
+            127
+        ],
         "reviewed": true,
+        "user_excluded": [],
         "value": 47.53743425435407
     },
     "Ar41": {
